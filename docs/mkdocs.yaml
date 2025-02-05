@@ -1,0 +1,7 @@
+site_name: 'blog'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
